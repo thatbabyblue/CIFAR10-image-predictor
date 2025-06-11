@@ -5,10 +5,9 @@ This project implements a Convolutional Neural Network (CNN) using PyTorch to cl
 ---
 
 ## 📂 Project Structure
-...
-├── dataloader.py # Data loaders and transforms
-├── model.py # CNN model definition 
-├── train.py # Model training and saving
-├── app.py # Streamlit app for user interaction
-└── README.md # Project documentation
+- [dataloader.py] # Data loaders and transforms
+- [model.py] # CNN model definition 
+- [train.py] # Model training and saving
+- [app.py] # Streamlit app for user interaction
+- [README.md] # Project documentation
 
