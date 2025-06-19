@@ -11,3 +11,11 @@ This project implements a Convolutional Neural Network (CNN) using PyTorch to cl
 - app.py # Streamlit app for user interaction
 - README.md # Project documentation
 
+
+## Usage
+To run the Classifier on the local server, simply run the command below in the terminal:
+
+```
+streamlit run app.py
+```
+
